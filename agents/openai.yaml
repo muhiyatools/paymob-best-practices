@@ -1,0 +1,4 @@
+interface:
+  display_name: Paymob Best Practices
+  short_description: Production-grade Paymob payment gateway integration — intention APIs, checkout (unified/pixel), HMAC-secured webhooks, saved cards, subscriptions, auth/cap, refunds, mobile SDKs. Covers EGY, KSA, UAE, OMN.
+  default_prompt: Use Paymob Best Practices to integrate Paymob payment gateway into this project.
